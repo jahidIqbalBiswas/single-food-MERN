@@ -37,7 +37,7 @@ const UpdateForm = () => {
     return (
         <div>
             <div className="container p-8">
-                <h1 className="text-3xl mb-10">Create Food Item</h1>
+                <h1 className="text-3xl mb-10">Update Food Item</h1>
                 <form onSubmit={submitForm} action="">
                     <div className="flex flex-wrap">
                         <div className="w-[30%]">
