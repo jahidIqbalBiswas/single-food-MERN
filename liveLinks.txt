@@ -1,0 +1,2 @@
+Front-End: https://crud-foods.netlify.app
+API Base URL: https://single-food-api.vercel.app/api
